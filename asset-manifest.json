@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "files": {
     "main.css": "/PhotoModeShow/static/css/main.f192ff1f.css",
@@ -12,4 +13,20 @@
     "static/css/main.f192ff1f.css",
     "static/js/main.cd334d2a.js"
   ]
+=======
+{
+  "files": {
+    "main.css": "/photoModeShow/static/css/main.692337bc.css",
+    "main.js": "/photoModeShow/static/js/main.f5f35e50.js",
+    "static/js/787.2b61f396.chunk.js": "/photoModeShow/static/js/787.2b61f396.chunk.js",
+    "index.html": "/photoModeShow/index.html",
+    "main.692337bc.css.map": "/photoModeShow/static/css/main.692337bc.css.map",
+    "main.f5f35e50.js.map": "/photoModeShow/static/js/main.f5f35e50.js.map",
+    "787.2b61f396.chunk.js.map": "/photoModeShow/static/js/787.2b61f396.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.692337bc.css",
+    "static/js/main.f5f35e50.js"
+  ]
+>>>>>>> 67e206515fd6429d851d8d2452c8dd2e1af9c363
 }
